@@ -1,5 +1,7 @@
 Pro:
 - closer to sun
+- less gravity
 
 Con:
 - protomolecule is all over it
+- too much hot
